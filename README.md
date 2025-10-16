@@ -11,11 +11,11 @@ The public datasets [ADNI](https://adni.loni.usc.edu/), [ABIDE](http://fcon_1000
 
 
 ## Requirements
-- Python
-- PyTorch
-- DGL
-- Numpy
-- Scipy
+- Python 3.8.20
+- PyTorch 1.12.1
+- DGL 0.9.1
+- Numpy 1.24.3
+- Scipy 1.10.1
 - OS
 - etc.
 
