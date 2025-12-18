@@ -2,6 +2,7 @@
 [2025/07] The code will be publicly available once the paper is accepted. Thanks for your attention!
 
 [2025/10] This is the official PyTorch implementation of HHGNN from the paper "Multi-scale Atlases Based Hierarchical Heterogeneous Graph Learning for Brain Disorder Diagnosis".
+
 Li, Q., Li, G., Yu, W., Cheng, G., Yu, K., Fan, X., & Wang, K. (2025). Multi-scale Atlases Based Hierarchical Heterogeneous Graph Learning for Brain Disorder Diagnosis. Expert Systems with Applications, 130752.
  
 ## Overview
